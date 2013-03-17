@@ -92,7 +92,6 @@ class Hand():
 # print playHand.value
 
 
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC9bBwICYxo67cTVNCEkjqI3cIa9MwXc3Kthp7lpNaZs5RoHgPK/s499f9Ishm7koT5aSnjJmiFMkJgXAYmOgOr6m1NZeEnezKPrg+iHlp87bGSgxvEbpo9msFollDd9GTtg4Huvx7Sd6iEBcKV6VRzY/MGyEdKIbV6UvnuKF//R01ffx9mt0hC5MxY3586o10HCOq+rDtJtvHt2r7UDHzWZb+zLbAXIPTdBJpsYs5Dpj40Ooag3Ylx7rxptVL2IITmCldcpUSE6OTLEx4RCmCVBInCzX25xyPTkCyJ459Jb/9HyIRbF/EYE3rXYmMeTdq6+xVZdZzdvi1N/GxsKyeb jampacks@jamdell
 
 #  d888b   .d8b.  .88b  d88. d88888b
 # 88' Y8b d8' `8b 88'YbdP`88 88'    
