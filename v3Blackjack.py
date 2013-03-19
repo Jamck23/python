@@ -174,7 +174,7 @@ class Game:
 				self.showGame()
 
  	def dealerTurn(self):
-	 	while self.dealer.hand.value < 17 or self.dealer.hand.value <= self.player.hand.value:	 	 	
+	 	while self.dealer.hand.value < 17 or self.dealer.hand.value < self.player.hand.value:	 	 	
 	 		if self.dealer.hand.value < self.player.hand.value and self.dealer.hand.handFinished() == False:	
 					time.sleep(1)
 					self.message = "Dealer Hits"
